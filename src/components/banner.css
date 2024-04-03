@@ -1,0 +1,11 @@
+.banner{
+    background-color: aquamarine;
+}
+
+.left{
+    margin-left: 60px;
+}
+.both{
+    justify-content: center;
+    align-items: center;
+}
